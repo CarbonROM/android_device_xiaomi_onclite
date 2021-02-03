@@ -1,14 +1,15 @@
 [
   {
-    "remote": "lineage"
+    "remote": "lineage",
     "repository" : "LineageOS/android_kernel_xiaomi_onclite",
-    "target_path": "kernel/xiaomi/onclite"
+    "target_path": "kernel/xiaomi/onclite",
+    "revision": "lineage-17.1"
   },
   {
    "remote": "lineage",
    "repository": "LineageOS/android_packages_resources_devicesettings",
    "target_path": "packages/resources/devicesettings",
    "revision": "lineage-17.1"
- },
+ }
 ]
 
